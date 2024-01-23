@@ -4,6 +4,7 @@
 
 - Some applications do not expose XML or UI elements to Appium which makes automating against them challenging in both navigating and running assertions to verify features.  Using the Appium OCR plugin can help with this.
 - The OCR plugin can read detect text that the base Appium library can not, which you can then manipulate in various ways to write your tests.
+- [Demo](https://drive.google.com/file/d/1I45n-IxSRfHXhdTzteRs0NVwgWg9GpR-/view?usp=sharing)
 
 ## Prerequisites
 
